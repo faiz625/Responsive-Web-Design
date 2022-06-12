@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <main>
+    <h1 id="title">Survey</h1>
+    <p id="description">Help me learn more about you!</p>
+    <form id="survey-form">
+      <label id="name-label"> Name:
+       <input id="name" type="text" placeholder="Enter your name" required>
+      </label>
+      <label id="email-label"> Email:
+       <input id="email" type="email" placeholder="Enter your email" required>
+      </label>
+      <label id="number-label">Age:
+       <input id="number" type="number" min="0" max="100" placeholder="Enter your age">
+      </label>
+
+      <select id="dropdown">
+        <option>Highschool Student</option>
+        <option>Undergraduate Student</option>
+        <option>Postgraduate Student</option>
+        <option>Worker</option>
+        <option>Entrepreneur</option>
+      </select>
+      <input type="radio" name="radio-group" value="basketball">
+      <input type="radio" name="radio-group" value="hockey">
+      <input type="radio" name="radio-group" value="none">
+      <input type="radio" name="radio-group" value="other">
+      <input type="checkbox" value="Anime">
+      <input type="checkbox" value="Sports">
+      <input type="checkbox" value="Cooking">
+      <input type="checkbox" value="Other">
+
+      <textarea> </textarea>
+      <button id="submit" type="submit">
+    </main>
