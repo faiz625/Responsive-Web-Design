@@ -1,0 +1,17 @@
+<main id="main">
+  <html>
+    <head>
+  <link href="styles.css" rel="stylesheet">
+  </head>
+  <h1 id="title"> Shirley Yang </h1>
+  <div class="container">
+    <figure id="img-div">
+      <img id="image" src="https://media-exp1.licdn.com/dms/image/C4E03AQEmf2cmRjmT8A/profile-displayphoto-shrink_200_200/0/1637098092907?e=1660780800&v=beta&t=yH3ohUtkhdwhUSZMkYtRwn9AG7vt1uGDiF2gW-jdYqo" alt="Lychee" />
+      <figcaption id="img-caption">Shirley is a very annoying individual that is very headstrong. She likes getting her way, but doesn't always get it. She loves caramel macchiatos' and loves her PC. She plays val on her free time, and also goes to the gym alot. She is an amazing friend, and person. Anyone would be lucky to have her in their life. </figcaption>
+    </figure>
+    <section id="tribute-info">
+      <p>This tribute page is being created to show that she is an amazing person that deserves recognition. She may look like someone who is hard to approach at first, but she is very kind and selfless when it comes to her friends. </p>
+      <a href="https://www.youtube.com/watch?v=YyAuFiIv-V4" id="tribute-link" target="_blank">The thing that reminds me of Shirley the most</a>
+    </section>
+  </div>
+</main>
