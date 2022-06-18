@@ -1,0 +1,9 @@
+#navbar{
+  width: 45%
+}
+
+@media(max-width: 768px){
+  body{
+    background-color:#F5F5DC;
+  }
+}
